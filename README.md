@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://ptit.edu.vn" target="_blank">
-    <img src="./images/ptit.png" alt="PTIT Logo" height="60" style="border-radius: 8px; padding: 4px; background: #ffffff;" />
+    <img src="./images/ptit.svg" alt="PTIT Logo" height="60" style="border-radius: 8px; padding: 4px; background: #ffffff;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <span style="font-size: 30px; font-weight: bold; color: #888;">✕</span>
