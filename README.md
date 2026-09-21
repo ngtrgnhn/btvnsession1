@@ -5,9 +5,9 @@
     <img src="./images/ptit.png" alt="PTIT Logo" height="60" style="border-radius: 8px; padding: 4px; background: #ffffff;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="font-size: 24px; font-weight: bold; color: #888;">✕</span>
+  <span style="font-size: 30px; font-weight: bold; color: #888;">✕</span>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://rikkeiedu.com" target="_blank">
+  <a href="https://rikkei.edu.vn" target="_blank">
     <img src="./images/rikkei-logo.webp" alt="Rikkei Edu Logo" height="60" style="border-radius: 8px; padding: 4px; background: #ffffff;" />
   </a>
 </p>
