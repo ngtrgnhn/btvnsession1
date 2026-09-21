@@ -8,7 +8,7 @@
   <span style="font-size: 24px; font-weight: bold; color: #888;">✕</span>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://rikkeiedu.com" target="_blank">
-    <img src="./images/rikkeiedu.png" alt="Rikkei Edu Logo" height="60" style="border-radius: 8px; padding: 4px; background: #ffffff;" />
+    <img src="./images/rikkei-logo.webp" alt="Rikkei Edu Logo" height="60" style="border-radius: 8px; padding: 4px; background: #ffffff;" />
   </a>
 </p>
 
